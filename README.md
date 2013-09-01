@@ -1,3 +1,1 @@
-Fundamental mathematics library for robotic vision in Matlab, including:
-
-Lie groups/algebras
+Fundamental mathematics library for robotic vision in Matlab, including: Lie groups (Lie algebras)
